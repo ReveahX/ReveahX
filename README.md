@@ -9,7 +9,7 @@ I have **mastery in VHDL, Python, and C**, but I also work with **C++, Java, Jav
 ## 🚀 **About Me**
 - 🎓 Studying at **Université de Picardie Jules Verne**  
 - 💻 Working on **AI-driven automation projects** (Python + Llama 3.1)  
-- 🎮 Gamer & Tech Enthusiast – **Titanfall 2, Chess, Baldur's gate III, and more!**  
+- 🎮 Gamer & Tech Enthusiast – **Titanfall 2, Chess, Baldur's Gate III, and more!**  
 
 ---
 
@@ -51,12 +51,13 @@ Developing a **Python script for Llama 3.1** to automate tasks like:
 - 🌍 **GitHub**: [ReveahX](https://github.com/ReveahX)
 - 🎮 **Steam**: [Profile](https://steamcommunity.com/profiles/76561199070044929/)
 - ♟️ **Chess.com**: [ReveahX](https://www.chess.com/member/reveahx)
+- 💬 **Discord**: ReveahX  
 
 ---
 
 ### 🎯 **Fun Facts**
 - ♟️ Chess enthusiast who enjoys strategy games  
-- 🎮 Gamer with a love for **Titanfall 2**, **Baldur's Gate 3**
+- 🎮 Gamer with a love for **Titanfall 2**, **Baldur's Gate 3**  
 - 🤖 Interested in **AI, automation, and hardware-software integration**  
 
 ---
