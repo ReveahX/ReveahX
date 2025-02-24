@@ -21,6 +21,7 @@ I have **mastery in VHDL, Python, and C**, but I also work with **C++, Java, Jav
 ![VHDL](https://img.shields.io/badge/VHDL-0096D6?style=for-the-badge)
 
 ### **🌐 Web & Software Development**
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
