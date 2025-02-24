@@ -7,6 +7,7 @@ I have **mastery in VHDL, Python, and C**, but I also work with **C++, Java, Jav
 ---
 
 ## 🚀 **About Me**
+- 🏭 Interning at **Asteel Flash** as a "Repair Technician"
 - 🎓 Studying at **Université de Picardie Jules Verne**  
 - 💻 Working on **AI-driven automation projects** (Python + Llama 3.1)  
 - 🎮 Gamer & Tech Enthusiast – **Titanfall 2, Chess, Baldur's Gate III, and more!**  
