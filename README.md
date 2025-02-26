@@ -18,7 +18,6 @@ I have **mastery in VHDL, Python, and C**, but I also work with **C++, Java, Jav
 ### **💾 Systems & Low-Level Programming**
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![VHDL](https://img.shields.io/badge/VHDL-0096D6?style=for-the-badge)
 
 ### **🌐 Web & Software Development**
